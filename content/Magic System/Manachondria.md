@@ -1,0 +1,11 @@
+---
+publish: true
+created: 2026-02-12T22:34:42.000-06:00
+modified: 2026-02-12T21:46:17.297-06:00
+---
+
+The microscopic vessels of the body that produce mana. Properly harnessing magic wouldn't be possible without these.
+
+---
+
+## Overview
