@@ -95,3 +95,14 @@ Nero's years of experience in being stealthy and precise, combined with his own 
 ### Stubbornness
 
 Nero is _immensely_ stubborn. There are a lot of lessons he's had to learn throughout his life the hard way due to his own inability to realize when he needs to just... _stop_ and do/think about things _differently._ Even now, he remains stubborn in his belief that Venn is at fault for him ending up as a thief living on the streets. He can't admit that _his own actions_ led him to where he is. With this level of obstinacy, he may end up having to _also_ learn this truth the hard way.
+
+### Reputation
+
+After years of dwelling in various streets and corners of the kingdom he lives in, it was bound that some _rumors_ about a "Short, mouse-boy that looks like he's up to no good" would spread. Naturally, the knight order would want to question such a suspicious individual, however, Nero's slippery nature made actually capturing him more trouble that its worth. Though, even without an order for his arrest being given out, the general disposition towards Nero became so dismal, most citizens tend to be on guard around or avoid him altogether, which makes it difficult to engage with the common folk even in a non-hostile manner.
+
+## Trivia
+
+- Before Nero and Aisha met, the former had spent most of his life feeding on whatever gave him the most sustenance, and as such, he never really cared about the taste, because it was "good enough". With the latter's inclusion in his life and subsequent frequent meals they had to share, however, Nero's preferences begun to change, almost to the point of not being able to eat anything that doesn't come even slightly close to Aisha's cooking.
+- Nero is secretly self-conscious about his height and mouse ears, but he's very good at hiding this fact. The reason for this is because he thinks it makes him look "cute" or "adorable" and reduces his scare factor.
+- Having good dexterity, it is no wonder that Nero often invites the other party members to play card games with him, with his highest session winstreak being recorded as 17, only stopped by Aisha, Lilith and Mista (and Misty) combining forces to take him down.
+- He REALLY dislikes the fact that he is the youngest in the party, as that makes the other members tease him about it, which he can't stand.
