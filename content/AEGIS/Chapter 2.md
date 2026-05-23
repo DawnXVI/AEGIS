@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-08T02:50:32.000-05:00
-modified: 2026-04-23T18:33:10.317-05:00
+modified: 2026-05-22T18:33:00.167-05:00
 ---
 
 Aisha plunges deeper into the cavern, kicking away rock after rock, boulder after boulder. Her ears twitch frantically, pivoting and readjusting, zeroing in on the exact chamber where the screams are coming from. The light from the stone clutched tightly in her hand trails behind her, keeping the path lit for everyone else.
@@ -65,5 +65,3 @@ She reaches the creature before it can fully turn towards her. Her leg flies up,
 The creature doesn't die immediately. The half-dozen stalactites above it—each one sharpened to a fine point—punch through its body like spears through paper and burst through the other side, dripping with black ichor.
 
 The creature lets out a horrible screech, its entire body seizing and convulsing in agony before going limp. For a moment, it just _hangs_ there. Then, its weight pulls it downward. It falls. Slams into the ground with a sickening thud.
-
-If it wasn't dead before, it is now.

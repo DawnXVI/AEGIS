@@ -6,7 +6,7 @@ modified: 2026-02-19T05:26:52.464-06:00
 
 #### The Unknowing Heiress
 
-_(AKA "Raelyn")_
+### AKA "Raelyn"
 
 ---
 

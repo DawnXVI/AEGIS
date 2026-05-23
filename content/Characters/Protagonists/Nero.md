@@ -6,7 +6,7 @@ modified: 2026-02-19T05:27:22.481-06:00
 
 #### The Timeless Thief
 
-_AKA "That One Jackass Who Stole From Me"_
+### AKA "That One Jackass Who Stole From Me"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-19T13:26:38.000-06:00
-modified: 2026-04-27T15:48:48.238-05:00
+modified: 2026-05-21T21:42:12.952-05:00
 ---
 
 The force of the universe that allows for reality-bending feats.
@@ -26,11 +26,17 @@ Magic usage comes down to two main techniques: _conjuration_ and _bending._
 
 ## Conjuration
 
-Conjuration is
+Conjuration is the art of using magic to create something from thin air. Conjuration is the more highly advanced one of the two main magic techniques, and this is due to the fact that it creates something from seemingly nothing. Conjuration transforms the air itself into what the user desires. This requires skill, concentration, and knowledge of both molecular compositions and reactions. Conjuring fire would mean forcing a rapid oxidization reaction in the air to create a ball of flames that can be controlled. Because of how conjuration works, it requires a substantial amount of mana.
+
+For any student to gain the title of mage, they **must** first become an expert at conjuration for the exact element they specialize in. Once this is accomplished, they will be granted the title of "Fire Mage" or "Water Mage", depending on the element they chose to focus on.
 
 ---
 
 ## Bending
+
+Bending is the art of using magic to manipulate an existing element or object. Because bending doesn't require the user to _create_ anything, it is much more manageable for beginners, and much less draining on mana. Fire bending would mean manipulating an already existing fire (such as the flame from an actively burning campfire) and shaping it to your needs.
+
+Bending is the beginner stage for any student learning to use magic properly. It trains magic control and concentration.
 
 ---
 
