@@ -1,3 +1,9 @@
 @use "./variables.scss" as *;
 @use "themes";
 // put your custom CSS here!
+body, p, li, h1, h2, h3, h4, h5, h6 {
+  -webkit-user-select: text !important; /* Safari/Chrome */
+  -moz-user-select: text !important; /* Firefox */
+  -ms-user-select: text !important; /* Edge */
+  user-select: text !important; /* Standard */
+}
