@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-08T02:50:32.000-05:00
-modified: 2026-06-05T01:15:46.268-05:00
+modified: 2026-06-05T01:39:03.006-05:00
 ---
 
 Aisha plunges deeper into the cavern, kicking away rock after rock, boulder after boulder. Her ears twitch frantically, pivoting and readjusting, zeroing in on the exact chamber where the screams are coming from. The light from the stone clutched tightly in her hand trails behind her, keeping the path lit for everyone else.
@@ -90,9 +90,9 @@ It's humanoid.
 
 ...
 
-**"Yes..."**
+_"Yes..."_
 
-**"Yes, I believe so."**
+_"Yes, I believe so."_
 
 ...
 
