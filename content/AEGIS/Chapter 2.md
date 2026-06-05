@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-08T02:50:32.000-05:00
-modified: 2026-05-22T18:33:00.167-05:00
+modified: 2026-06-05T00:55:51.172-05:00
 ---
 
 Aisha plunges deeper into the cavern, kicking away rock after rock, boulder after boulder. Her ears twitch frantically, pivoting and readjusting, zeroing in on the exact chamber where the screams are coming from. The light from the stone clutched tightly in her hand trails behind her, keeping the path lit for everyone else.
@@ -44,7 +44,7 @@ The leftmost wall of the cavern, for lack of a better term, _**explodes.**_ Rock
 
 _0.3 seconds._
 
-The creature begins to turn towards Aisha. Hikari doesn't look at her. He's staring at the creature, the light beaming from the stone in Aisha's hand finally illuminating its body. The sight horrifies Hikari even further. Long, spindly limbs. A head covered in red, glowing eyes. A mouth sporting mandibles and jagged fangs. A segmented body covered in horn-like structures.
+The creature begins to turn towards Aisha. Hikari doesn't look at her. He's staring at the creature, the light beaming from the stone in Aisha's hand finally illuminating its body. The sight horrifies Hikari even further. Long, spindly limbs. A head devoid of any eyes; merely a mouth sporting mandibles and jagged fangs. A segmented body covered in horn-like structures.
 
 _0.4 seconds._
 
@@ -65,3 +65,85 @@ She reaches the creature before it can fully turn towards her. Her leg flies up,
 The creature doesn't die immediately. The half-dozen stalactites above it—each one sharpened to a fine point—punch through its body like spears through paper and burst through the other side, dripping with black ichor.
 
 The creature lets out a horrible screech, its entire body seizing and convulsing in agony before going limp. For a moment, it just _hangs_ there. Then, its weight pulls it downward. It falls. Slams into the ground with a sickening thud.
+
+...
+
+"Heh."
+
+Aisha smirks, the pride clear on her face. It quickly fades, her attention shifting to Hikari, still bleeding and frozen in shock on the ground.
+
+"Hey, are you—NGH!" Her concern dies in her throat as she stumbles, one hand landing flat on the ground while the other flies down to her left leg, gripping tight. Her light stone falls out of her grip and hits the ground, shattering like glass on impact. "Shit...!"
+
+"H-hey...!!" Hikari yells weakly, lifting a trembling arm, pointing towards Aisha as the magical light slowly dies out.
+
+"BEHIND YOU!!"
+
+Aisha gasps. She picks her head up and looks back, eyes shooting wide open. Claws. Long, sharp, extending from a ghostly white hand. The razor sharp tip of one of them reaches within an **inch** of her eye. And its face is nothing like the creature she just dispatched.
+
+It's humanoid.
+
+---
+
+### ...
+
+`...Is everything in order?`
+
+`---`
+
+`Yes...`
+
+`Yes, I believe so.`
+
+`---`
+
+`Excellent.`
+
+`Then you will venture back tomorrow.`
+
+`We will wait for the right time.`
+
+`...`
+
+`And I will finally be able to rest easy.`
+
+`---`
+
+`Of course, my Lord.`
+
+---
+
+_SHUNK._
+
+A flaming dagger strike the side of the creature's head, the blade piercing through completely and severing the brain stem. It goes limp, dead instantly.
+
+"AISHA!"
+
+Leilanna rushes in, the royal mages and Earth mages following close behind her. Two of the Earth  mages immediately rush to Hikari's side, light stones illuminating his surroundings even more as they check his injuries and prepare to take him out of the cavern.
+
+Aisha rises up on shaking legs, her weight shifted slightly more to her right side. Her breaths come out heavy. "About time you guys got here!..."
+
+"You shut your damn mouth and stay down before you pull another muscle!" Leilanna yells, her head swiveling toward the creature she just killed. There's no snappy comeback from Aisha. She, too, has turned her attention to the entity, its pale white complexion and emaciated body leaving them both frozen.
+
+"...This is..." mutters Leilanna.
+
+She doesn't get to finish her sentence.
+
+One of the Earth mages yells something. Everyone turns their attention to the left side of the chamber. To the hole leading deeper. Where the pale being came from. A screech echoes through the cavern. Then another joins in. More. Then more. It becomes almost deafening; a chorus of what sounds like sirens blaring throughout the chamber.
+
+Leilanna immediately retrieves her thrown dagger from the creature's head and steps forward, pointing at the two Earth mages with Hikari. "You two, get him out of here NOW! Aisha, go with them and get the hell out of here! The rest of you, in formation behind me; I'll need **full** support!" She commands without missing a beat, her daggers blazing as she stands in front of the hole in a light crouch.
+
+All of the mages move, the two with Hikari lifting him up and carrying him back the way they came.
+
+"I'm fighting with you!" Aisha shouts, coming up to Leilanna's side with that fierce determination plastered on her face once more, balling up her fists and taking a fighter stance.
+
+"What—NO! I TOLD YOU TO GO WITH THE MAGES; **THAT'S AN ORDER!**" Leilanna yells with a growl punctuating the end of her words. "You're NOT fighting in the condition you're in!"
+
+Aisha rolls her eyes. "Tch... Please, as if a little sprain ever stopped me from kicking ass! I'LL BE FINE!"
+
+Leilanna's eye twitches. She turns her attention to the hole again, gripping her daggers tighter. "I'm not saving your ass again, you hear me?! YOU BETTER BACK UP THAT BRAVADO!"
+
+Hikari can barely keep his eyes open any longer as he's carried out of the chamber. He sees is a mass of white and black rushing out of the hole, that horrible screeching siren emanating even louder from them now. Leilanna and Aisha lunge forward. Fire crackles. Earth trembles. Shockwaves ring out.
+
+The sounds become muffled. The ringing in Hikari's ears gets quieter. Vision and consciousness fade. The last thing he sees is a large boulder roll in front of the entrance to the chamber, manipulated through arcane means to block off the exit and keep the fight inside.
+
+Then, black.

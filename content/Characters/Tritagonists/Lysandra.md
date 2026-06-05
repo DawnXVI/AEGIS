@@ -28,7 +28,7 @@ Lysandra, despite her royal status, intentionally forgoes any extravagant, regal
 
 Princess Lysandra II, named after her late mother, is the daughter of [[King Rodin XXVII|King Rodin]], and the crown princess of Loria. Within the castle, her room lies in one of the top floors.
 
-The death of Lysandra's mother when she was but an infant led to her having to take on royal duties at the young age of 12. While it was overwhelming at first, Lysandra proved to be extremely adaptable, and settled into her duties as the princess very quickly. At least one of her royal guards, [[Characters/Tritagonists/Solanna]] and [[Characters/Tritagonists/Leilanna]], is with her at all times. This is a protective measure; the two were assigned to protect Lysandra with their lives by King Rodin immediately following the death of Queen Lysandra.
+The death of Lysandra's mother when she was but an infant led to her having to take on royal duties at the young age of 12. While it was overwhelming at first, Lysandra proved to be extremely adaptable, and settled into her duties as the princess very quickly. At least one of her royal guards, Solanna and Leilanna, is with her at all times. This is a protective measure; the two were assigned to protect Lysandra with their lives by King Rodin immediately following the death of Queen Lysandra.
 
 Still, Lysandra dreams of seeing the world beyond Loria. More than anything, she wishes to have the chance to explore the vast regions she reads so much about in her books. Alas, she is a princess with duties to fulfill, and Rodin's protectiveness means she's forbidden from doing such a thing.
 
@@ -86,7 +86,7 @@ Despite her offensive magic capabilities, Lysandra has never actually fought any
 
 ### Combat Skill
 
-Despite her preference for peace and avoiding confrontations, Lysandra knows that there's always a slim chance that she could at some point be in a dangerous situation without Solanna and Leilanna to protect her. And if her magic fails her, her only option will be to get physical. Thus, she has received combat training over the years. Her duties as a princess were, of course, always prioritized over this training, and thus training didn't happen too often. Still, she's fully capable of physically defending herself, but not quite at the level of someone like [[Characters/Protagonists/Aisha]], who has had a hand in helping her train on multiple occasions.
+Despite her preference for peace and avoiding confrontations, Lysandra knows that there's always a slim chance that she could at some point be in a dangerous situation without Solanna and Leilanna to protect her. And if her magic fails her, her only option will be to get physical. Thus, she has received combat training over the years. Her duties as a princess were, of course, always prioritized over this training, and thus training didn't happen too often. Still, she's fully capable of physically defending herself, but not quite at the level of someone like Aisha, who has had a hand in helping her train on multiple occasions.
 
 ### Perceptiveness
 
