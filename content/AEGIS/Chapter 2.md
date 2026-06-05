@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-08T02:50:32.000-05:00
-modified: 2026-06-05T00:55:51.172-05:00
+modified: 2026-06-05T01:07:29.671-05:00
 ---
 
 Aisha plunges deeper into the cavern, kicking away rock after rock, boulder after boulder. Her ears twitch frantically, pivoting and readjusting, zeroing in on the exact chamber where the screams are coming from. The light from the stone clutched tightly in her hand trails behind her, keeping the path lit for everyone else.
@@ -84,31 +84,29 @@ It's humanoid.
 
 ---
 
-### ...
+### ...?
 
-`...Is everything in order?`
+\*\*"...Is everything in order?"
 
-`---`
+...
 
-`Yes...`
+\*\*"Yes..."
 
-`Yes, I believe so.`
+\*\*"Yes, I believe so."
 
-`---`
+...
 
-`Excellent.`
+\*\*"Excellent."
 
-`Then you will venture back tomorrow.`
+\*\*"Then you will venture back tonight."
 
-`We will wait for the right time.`
+...
 
-`...`
+\*\*"And I will finally be able to rest easy."
 
-`And I will finally be able to rest easy.`
+...
 
-`---`
-
-`Of course, my Lord.`
+_"Of course, my Lord."_
 
 ---
 
