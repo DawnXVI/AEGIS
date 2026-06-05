@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2026-04-08T02:50:32.000-05:00
-modified: 2026-06-05T01:40:00.114-05:00
+modified: 2026-06-05T01:52:32.422-05:00
 ---
 
-Aisha plunges deeper into the cavern, kicking away rock after rock, boulder after boulder. Her ears twitch frantically, pivoting and readjusting, zeroing in on the exact chamber where the screams are coming from. The light from the stone clutched tightly in her hand trails behind her, keeping the path lit for everyone else.
+Deeper. Deeper. Yet, deeper.
+
+Aisha plunges further into the cavern, kicking away rock after rock, boulder after boulder. Her ears twitch frantically, pivoting and readjusting, zeroing in on the exact chamber where the screams are coming from. The light from the stone clutched tightly in her hand trails behind her, keeping the path lit for everyone else.
 
 Not far behind, Leilanna and the team follow the light, already struggling to keep pace. A violent tremor shakes the cavern—and their bodies—as Aisha kicks an obstructing boulder to pieces. Stalactites plummet from above, but two royal mages at the back raise their scepters, freezing the debris mid-air with levitation magic.
 
