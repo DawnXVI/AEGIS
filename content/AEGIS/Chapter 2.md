@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-08T02:50:32.000-05:00
-modified: 2026-06-05T01:52:32.422-05:00
+modified: 2026-06-05T22:01:01.516-05:00
 ---
 
 Deeper. Deeper. Yet, deeper.
@@ -116,15 +116,19 @@ _"Of course, my Lord."_
 
 _SHUNK._
 
-A flaming dagger strike the side of the creature's head, the blade piercing through completely and severing the brain stem. It goes limp, dead instantly.
+A flaming dagger strike the side of the creature's neck, the blade piercing through completely and severing the brain stem. It goes limp, dead instantly.
 
 "AISHA!"
 
-Leilanna rushes in, the royal mages and Earth mages following close behind her. Two of the Earth  mages immediately rush to Hikari's side, light stones illuminating his surroundings even more as they check his injuries and prepare to take him out of the cavern.
+Leilanna rushes in, the royal mages and Earth mages following close behind her. Two of the Earth  mages immediately rush to Hikari's side, light stones illuminating his surroundings once more as they check his injuries and prepare to take him out of the cavern.
 
 Aisha rises up on shaking legs, her weight shifted slightly more to her right side. Her breaths come out heavy. "About time you guys got here!..."
 
-"You shut your damn mouth and stay down before you pull another muscle!" Leilanna yells, her head swiveling toward the creature she just killed. There's no snappy comeback from Aisha. She, too, has turned her attention to the entity, its pale white complexion and emaciated body leaving them both frozen.
+"You shut your damn mouth and stay down before you pull another muscle!" Leilanna yells, her head swiveling toward the creature she just killed. The anger vanishes from her face, replaced by something she hasn't felt in a long while.
+
+Unease.
+
+There's no snappy comeback from Aisha. She, too, has turned her attention to the entity, its pale white complexion and emaciated body leaving them both frozen.
 
 "...This is..." mutters Leilanna.
 
@@ -132,7 +136,7 @@ She doesn't get to finish her sentence.
 
 One of the Earth mages yells something. Everyone turns their attention to the left side of the chamber. To the hole leading deeper. Where the pale being came from. A screech echoes through the cavern. Then another joins in. More. Then more. It becomes almost deafening; a chorus of what sounds like sirens blaring throughout the chamber.
 
-Leilanna immediately retrieves her thrown dagger from the creature's head and steps forward, pointing at the two Earth mages with Hikari. "You two, get him out of here NOW! Aisha, go with them and get the hell out of here! The rest of you, in formation behind me; I'll need **full** support!" She commands without missing a beat, her daggers blazing as she stands in front of the hole in a light crouch.
+Leilanna immediately retrieves her thrown dagger from the creature's head and steps forward, pointing at the two Earth mages with Hikari. "You two, get him out of here NOW! Aisha, go with them! The rest of you, in formation behind me; I'll need **full** support!" She commands without missing a beat, her daggers blazing as she stands in front of the hole in a light crouch.
 
 All of the mages move, the two with Hikari lifting him up and carrying him back the way they came.
 
