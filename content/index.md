@@ -22,9 +22,13 @@ modified: 2026-02-19T05:58:47.003-06:00
 
 ## Changelog
 
+### June 16th, 2026 (8:00 PM CST)
+
+- Added the page for [[Demons]]
+
 ### May 22nd, 2026 (11:15 PM CST)
 
-- Finished [[Magic]], [[Mana]], and [[Manachondria]].
+- Finished [[Magic System/Magic]], [[Mana]], and [[Manachondria]].
 - Added 3 illnesses to [[Magic Illnesses]] (still need to come up with more to add).
 - Added [[Irina]]'s page (no information written at the moment).
 - Minor updates to a couple pages.
@@ -33,7 +37,7 @@ modified: 2026-02-19T05:58:47.003-06:00
 ### May 5th, 2026 (8:00 PM CST)
 
 - Ok it's been too long since I've updated the site, _so,_ I have posted **literally everything I have so far,** including anything unfinished (except for anything that's TOO unfinished and empty to be noteworthy).
-- Notable pages updated or added: [[Magic]], [[Mana]], [[Manachondria]], [[Magic Illnesses]], [[Lapins]], [[Aisha]], [[Prologue]], [[Chapter 1]], and [[Chapter 2]].
+- Notable pages updated or added: [[Magic System/Magic]], [[Mana]], [[Manachondria]], [[Magic Illnesses]], [[Lapins]], [[Aisha]], [[Prologue]], [[Chapter 1]], and [[Chapter 2]].
 - A few people on the writing team now have access to where I write all of this, _and hopefully they do a much better job at writing stuff down than me,_ so hopefully we'll see more updates to this place.
   I am so sorry for being a lazy procrastinating bum.
 
